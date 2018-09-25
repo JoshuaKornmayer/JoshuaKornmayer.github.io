@@ -1,9 +1,26 @@
-name: "my-website"
+name: "Home"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Home"
   left:
-    - text: "Home"
+    - text: "Joshua Kornmayer"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Resume"
+      href: resume.html
+    - text: "On-Air Work"
+      href: On-AirWork.html
+  right: 
+    - text: ""
+      icon: fa-github
+      href: http://github.com/JoshuaKornmayer/JoshuaKornmayer.github.io
+    - text: ""
+      icon: fa-twitter
+      href: https://twitter.com/j80kornflake
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    
+       

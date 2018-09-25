@@ -1,5 +1,27 @@
 ---
-title: "My Website"
+title: "**Welcome!**"
 ---
 
-Hello, Website!
+
+<hr>
+
+# **Joshua Kornmayer**
+##Phone: 828-817-2996
+<img src="IMG_2062.JPG" style="width:40%; margin-right: 35px" align="right">
+
+##Email: jbkornmayer80@gmail.com
+
+##Linkedin: Joshua Kornmayer
+ 
+### ESPN and D1 Broadcaster
+* Football
+* Basketball 
+* Baseball
+* Softball
+* Volleyball
+* Soccer
+
+### Sports Director at 90.5 WASU
+### Morning Show Co-Host
+
+### Graduate of Appalachian State in Mass Communication and Mathematics
